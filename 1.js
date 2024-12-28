@@ -1,2 +1,2 @@
-console.log('Hello World - v1')
+console.log('Hello World - v2')
 
